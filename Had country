@@ -17,6 +17,11 @@ custom_proxy_group=🎯🎯🎯`select`[]DIRECT`[]👑👑👑
 custom_proxy_group=🍎🍎🍎`select`[]🎯🎯🎯`[]👑👑👑
 custom_proxy_group=🚫🚫🚫`select`[]REJECT`[]DIRECT
 custom_proxy_group=🐡🐠🐟`select`[]👑👑👑`[]🎯🎯🎯`[]👋👋👋
+custom_proxy_group=🇺🇲🇺🇲🇺🇲`url-test`(美|US|United States)`http://www.google-analytics.com/generate_204`3600,,100
+custom_proxy_group=☀️☀️☀️`url-test`(台|新北|彰化|TW|Taiwan)`http://www.google-analytics.com/generate_204`3600,,100
+custom_proxy_group=🇸🇬🇸🇬🇸🇬`url-test`(新加坡|坡|狮城|SG|Singapore)`http://www.google-analytics.com/generate_204`3600,,100
+custom_proxy_group=🇰🇷🇰🇷🇰🇷`url-test`(KR|Korea|KOR|首尔|韩|韓)`http://www.google-analytics.com/generate_204`3600,,100
+
 
 enable_rule_generator=true
 overwrite_original_rules=true
